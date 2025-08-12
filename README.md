@@ -108,28 +108,6 @@ The API will be available at `http://localhost:3000`.
 curl -X POST http://localhost:3000/notes \
   -H "Content-Type: application/json" \
   -d '{"title":"My First Note", "content":"This is a test note"}'
-```
 
----
 
-## 🚀 Deployment
-
-You can deploy this API to:
-
-* [Render](https://render.com/)
-* [Vercel](https://vercel.com/) (with serverless functions)
-* [Railway](https://railway.app/)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** – feel free to use and modify.
-
----
-
-**Author:** [Keshav](https://github.com/k4shav)
-⭐ If you like this project, don’t forget to star the repo!
-
-```
 
