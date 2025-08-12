@@ -133,8 +133,3 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ```
 
----
-
-If you want, I can also make a **shorter README** just for submission so it looks clean for your MCA mini project.  
-Do you want me to make the short version too?
-```
