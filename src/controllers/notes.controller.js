@@ -1,6 +1,5 @@
 const db = require("../config/firebase");
 const { Timestamp } = require("firebase-admin/firestore");
-
 const collection = db.collection("notes");
 
 //function to create note
